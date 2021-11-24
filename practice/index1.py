@@ -1,5 +1,5 @@
-name = input("tell me your name: Aimal")
+name = input("Tell me your name: ")
 print("your name is " + name)
 
-age = input("tell me your age: 29")
+age = input("Tell me your age: ")
 print("your age is " + age)
